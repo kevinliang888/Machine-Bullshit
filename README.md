@@ -2,9 +2,8 @@
 
 <h2> Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models </h2>
 
-🌐 [Project Page](https://machine-bullshit.github.io/) | 📄 [Paper](https://machine-bullshit.github.io/paper/machine_bullshit.pdf) | 🤗 [Dataset](https://huggingface.co/kaiquliang/BullshitEval)
+🌐 [Project Page](https://machine-bullshit.github.io/) | 📄 [Paper](https://machine-bullshit.github.io/paper/machine_bullshit.pdf) | 🤗 [Dataset](https://huggingface.co/datasets/kaiquliang/BullshitEval)
 
-        
 </div>
 
 Official code for the paper ["Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models"]().
