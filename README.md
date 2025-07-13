@@ -2,11 +2,11 @@
 
 <h2> Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models </h2>
 
-🌐 [Project Page](https://machine-bullshit.github.io/) | 📄 [Paper](https://arxiv.org/abs/2507.07484) | 🤗 [Dataset](https://huggingface.co/datasets/kaiquliang/BullshitEval)
+🌐 [Project Page](https://machine-bullshit.github.io/) | 📄 [Paper](https://arxiv.org/pdf/2507.07484) | 🤗 [Dataset](https://huggingface.co/datasets/kaiquliang/BullshitEval)
 
 </div>
 
-Official code for the paper ["Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models"]().
+Official code for the paper ["Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models"](https://arxiv.org/abs/2507.07484).
 
 Authors: [Kaiqu Liang](https://kaiquliang.github.io/), [Haimin Hu](https://haiminhu.org/), [Xuandong Zhao](https://xuandongzhao.github.io/), [Dawn Song](https://dawnsong.io/), [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php), [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime).
 
