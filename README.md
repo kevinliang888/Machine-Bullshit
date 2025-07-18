@@ -84,5 +84,9 @@ bullshit_index = 1 - abs(r)
 
 ## Citation
 If you find this code to be useful for your research, please consider citing.
-<pre>
-Coming soon</pre>
+<pre>@article{liang2025machine,
+  title={Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models},
+  author={Liang, Kaiqu and Hu, Haimin and Zhao, Xuandong and Song, Dawn and Griffiths, Thomas L and Fisac, Jaime Fern{\'a}ndez},
+  journal={arXiv preprint arXiv:2507.07484},
+  year={2025}
+}</pre>
