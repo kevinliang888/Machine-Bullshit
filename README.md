@@ -29,7 +29,7 @@ export GOOGLE_API_KEY=""
 
 ## Evaluate BullshitEval
 
-We support evaluation for closed-source models such as openai, claude and gemini, as well as open-source models such as Llama-3.3-70b and Qwen2.5-72b.
+We support evaluation for closed-source models provided by OpenAI, Anthropic (Claude), and Google (Gemini), as well as open-source models such as Llama-3.3-70b and Qwen2.5-72b.
 
 ### Base model
 ```
